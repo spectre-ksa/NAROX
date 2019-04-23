@@ -11,7 +11,7 @@ module.exports.run = async (client, message, args) => {
           if(loal === "#000000") loal = color
    let inviteEmbed = new Discord.RichEmbed()
     .setTitle("Invite Link")
-    .setDescription(`[Click Here](https://discord.gg/ZeFUEpn)`)
+    .setDescription(`[Click Here](SORRY THERE IS NO SUPOURTS)`)
     .setColor(loal);
     
     message.channel.send(inviteEmbed).catch();
